@@ -11,4 +11,4 @@ Vary the octave by raising or lowering the right hand.
 Try exploring the gestures by counting on your fingers. Begin from your thumb, from your pinky, and from your index to show 12 chords and all 12 notes of the chromatic scale.
 
 Dependencies
-csv, copy, argparse, itertools, collections, cv2, keyboard, numpy, mediapipe, utils, model, sounddevice
+csv, copy, argparse, itertools, collections, cv2, keyboard, numpy, mediapipe, sounddevice
